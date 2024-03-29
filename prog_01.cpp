@@ -45,5 +45,5 @@ int main(int argc, char* argv[]) {
    cout << "String 2: " << myArgs.directoryPath << endl;
    cout << "String 3: " << myArgs.filename << endl;
 
-   return 0;
+   return 0; // exiting main by returning 0
 }
