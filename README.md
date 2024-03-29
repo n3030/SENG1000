@@ -19,5 +19,7 @@ Prior to designing the program the gcc compiler has been installed and configure
 - After installation open VS Code and install the "coderunner" extension from VS Code's extension library.
 - Clone the project in VS Code to open it in the IDE.
 - Execute the programs to get the outcomes.
+
 **Cover Image Source:**
+
 https://cdn.mycplus.com/mycplus/wp-content/uploads/2008/09/file_handling_c.png
